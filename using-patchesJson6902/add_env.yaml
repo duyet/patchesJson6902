@@ -1,0 +1,5 @@
+- op: add
+  path: /spec/containers/0/env/-
+  value:
+    name: NEW_ENV
+    value: New Value
